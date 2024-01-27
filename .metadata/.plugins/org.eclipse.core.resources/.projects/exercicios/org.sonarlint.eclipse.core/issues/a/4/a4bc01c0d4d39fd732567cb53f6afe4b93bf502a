@@ -1,0 +1,7 @@
+
+e	java:S106"+Replace this use of System.out by a logger.8Ή…εοΎ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+t
+java:S1854"9Remove this useless assignment to local variable "botao".8«κοΎ1b b1944353d907df7e26da10407e381866h
+e
+java:S1481"*Remove this unused "botao" local variable.8«κοΎ1b 3c93757d29fb183272deb53b8c30460fh
+e	java:S106"+Replace this use of System.out by a logger.8Β¶νοΎ1b 3205e26476bf38046a4c8b4332dbac30h

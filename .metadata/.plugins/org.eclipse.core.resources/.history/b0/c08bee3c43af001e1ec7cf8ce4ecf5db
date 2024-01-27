@@ -1,0 +1,31 @@
+package br.com.cod3r;
+
+import java.lang.reflect.Array;
+import java.util.Arrays;
+import java.util.List;
+import java.util.function.Consumer;
+
+import br.com.cod3r.modelo.Tabuleiro;
+import br.com.cod3r.visao.TabuleiroConsole;
+
+public class Aplicacao {
+
+	public static void main(String[] args) {
+		Consumer<Object> imprimir = System.out::println;
+		List<Object> num = Arrays.asList(1,2,3,4,5);
+		
+		num.stream().forEach(imprimir);
+		
+		Tabuleiro tabuleiro = new Tabuleiro(6, 6, 6);
+		//Instancio a classe importada do pacote "modelo" que trará todos os métodos de execucução do tabuleiro e buscará na classe campo a lógica de funcionamento do campo
+		
+		new TabuleiroConsole(tabuleiro);
+		//Instancio a classe importada do pacote "visao" responsável por formular toda a parte gráfica que haverá entre o usuário e o programa através do console
+		
+		
+		
+		
+		//System.out.println(tabuleiro);
+		
+	}
+}

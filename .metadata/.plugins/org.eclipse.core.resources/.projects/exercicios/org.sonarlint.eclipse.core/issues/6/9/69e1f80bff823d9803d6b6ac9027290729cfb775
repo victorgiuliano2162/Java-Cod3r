@@ -1,0 +1,7 @@
+
+
+java:S4276	"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'8ÍÿñƒÆ1b fb8d7ae9525a66eaa6e4d34b47424e75h
+e	java:S106"+Replace this use of System.out by a logger.8¢ğúƒÆ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106"+Replace this use of System.out by a logger.8Àó…„Æ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106"+Replace this use of System.out by a logger.8Àó…„Æ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106"+Replace this use of System.out by a logger.8Àó…„Æ1b bb1c3f2ea781263d3a2bb92b06a2061fh

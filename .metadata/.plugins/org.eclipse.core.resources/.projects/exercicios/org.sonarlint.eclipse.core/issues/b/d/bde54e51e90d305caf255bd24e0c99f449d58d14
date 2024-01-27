@@ -1,0 +1,13 @@
+
+‹
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.8¯Ş×ÃÉ1b e6292a6148e2ea51e049791463e7a58ch
+‹
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.8óûäÃÉ1b ed3d7b591374e776ac6585b751221c37h
+‹
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.8ÄšŞÃÉ1b 543a48962b71fc30dea9fab41fd73ba6h
+e	java:S106"+Replace this use of System.out by a logger.8¯Ş×ÃÉ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106 "+Replace this use of System.out by a logger.8óûäÃÉ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106"+Replace this use of System.out by a logger.8ÄšŞÃÉ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106"+Replace this use of System.out by a logger.8óûäÃÉ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+‹
+java:S3655 "PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.8óûäÃÉ1b 9b9692ae67c6febb0fd8a07b885d816ah

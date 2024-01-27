@@ -1,0 +1,5 @@
+
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+„	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 5689489fa45d520621a3568917701d09h
+j
+java:S6437"6Revoke and change this password, as it is compromised.b e8d95a51f3af4a3b134bf6bb680a213ah

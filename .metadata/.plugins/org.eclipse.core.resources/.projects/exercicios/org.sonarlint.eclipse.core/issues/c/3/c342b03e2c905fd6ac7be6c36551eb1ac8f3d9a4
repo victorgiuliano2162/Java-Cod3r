@@ -1,0 +1,10 @@
+
+u
+java:S1854":Remove this useless assignment to local variable "leitor".8º±Ìç¿1b d3cbb142b234a8074d9437003440c403h
+p
+java:S1854	"5Remove this useless assignment to local variable "a".8º±Ìç¿1b efb763afd0dd334968c82eb3103d5874h
+a
+java:S1481	"&Remove this unused "a" local variable.8º±Ìç¿1b 0cc175b9c0f1b6a831c399e269772661h
+f
+java:S1481"+Remove this unused "leitor" local variable.8º±Ìç¿1b 32724e2deb219fcb7518b10aeb483a15h
+e	java:S106"+Replace this use of System.out by a logger.8Øæ“î¿1b bb1c3f2ea781263d3a2bb92b06a2061fh

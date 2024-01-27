@@ -1,0 +1,10 @@
+
+y	java:S112"FDefine and throw a dedicated exception instead of using a generic one.b 15452a9b0f2356c3dabe720a67728b3dh
+j
+java:S6437"6Revoke and change this password, as it is compromised.b e8d95a51f3af4a3b134bf6bb680a213ah
+k
+java:S1128"0Remove this unused import 'java.io.IOException'.8ÎÆ¦ÇÓ1b b4d0c6ab436c3bc3a3bfe8df6b26cb6eh
+n
+java:S1118	":Add a private constructor to hide the implicit public one.b 740954e78942860f7da9d64534470001h
+l
+java:S1128"1Remove this unused import 'java.util.Properties'.8ÎÆ¦ÇÓ1b 2aae81fa25f2113aa1e1d26fa1c7829fh

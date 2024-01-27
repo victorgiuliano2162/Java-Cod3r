@@ -1,0 +1,8 @@
+
+{
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.b fcebc5995bdfff1f3c8dae763d19fd9eh
+|
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.b c7c16cd41b6f467abe85263cb32f3046h
+j
+java:S6437"6Revoke and change this password, as it is compromised.b e8d95a51f3af4a3b134bf6bb680a213ah
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh

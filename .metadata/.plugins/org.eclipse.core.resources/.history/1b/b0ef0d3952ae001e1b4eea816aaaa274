@@ -1,0 +1,18 @@
+package br.com.cod3r;
+
+import br.com.cod3r.modelo.Tabuleiro;
+
+public class Aplicacao {
+
+	public static void main(String[] args) {
+		
+		int a = 5;
+		if (a > 1) {
+		Tabuleiro tabuleiro = new Tabuleiro(6, 6, 6);
+		} else {
+			System.out.println("erru");
+		}
+		
+		
+	}
+}

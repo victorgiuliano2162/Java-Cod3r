@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;DesafioAritmetico.java&apos; to &apos;exercicios/src/fundamentos.operadores&apos;&#x0D;&#x0A;- Original project: &apos;exercicios&apos;&#x0D;&#x0A;- Destination element: &apos;exercicios/src/fundamentos.operadores&apos;&#x0D;&#x0A;- Original element: &apos;fundamentos.DesafioAritmetico.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;fundamentos.operadores" element1="/src&lt;fundamentos{DesafioAritmetico.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1700658018059" units="1" version="1.0"/>
+</session>

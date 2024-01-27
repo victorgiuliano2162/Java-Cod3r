@@ -1,0 +1,32 @@
+package jdbc;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import java.util.Scanner;
+
+public class ExcluirPessoa {
+	
+	public static void main(String[] args) throws SQLException{
+		
+		Scanner entrada = new Scanner(System.in);
+		System.out.println("Digite o indice a ser deletado");
+		int indice = entrada.nextInt();
+		
+		Connection conexao = FabricaConexao.getConexao();
+		String delete = "delete from pessoas where codigo = ?";
+		
+		PreparedStatement stmt = conexao.prepareStatement(delete);
+		stmt.setInt(1, indice);
+		stmt.execute();
+		
+		if(stmt.executeUpdate() > 0) {
+			System.out.println("Usuário excluído");
+		} else {
+			System.out.println("Usuário não encontrado");
+		}		
+		
+		entrada.close();
+		conexao.close();
+	}
+}

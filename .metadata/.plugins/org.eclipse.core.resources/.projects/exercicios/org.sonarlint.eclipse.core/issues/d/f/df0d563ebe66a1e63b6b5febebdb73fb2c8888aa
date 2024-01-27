@@ -1,0 +1,8 @@
+
+u
+java:S1118":Add a private constructor to hide the implicit public one.8…ŸÊ»œ1b 9757c38e6e0a8119be783fee5f86cea0h
+ò
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "teste".8‹≥ù–œ1b 37a6259cc0c1dae299a7866489dff0bdh
+à	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.8‹≥ù–œ1b 8e6f6f815b50f474cf0dc22d4f400725h
+j
+java:S1172"/Remove these unused method parameters "a", "b".8‹≥ù–œ1b 0cc175b9c0f1b6a831c399e269772661h

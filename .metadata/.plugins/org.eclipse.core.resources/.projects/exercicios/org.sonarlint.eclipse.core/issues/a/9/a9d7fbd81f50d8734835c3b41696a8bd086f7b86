@@ -1,0 +1,6 @@
+
+e	java:S106"+Replace this use of System.out by a logger.8µƒß…”1b bb1c3f2ea781263d3a2bb92b06a2061fh
+r
+java:S1854	"7Remove this useless assignment to local variable "sql".8 ê„…”1b 22f055f16bfb86cbfb13aeb09bd68db4h
+c
+java:S1481	"(Remove this unused "sql" local variable.8 ê„…”1b ac5c74b64b4b8352ef2f181affb5ac2ah

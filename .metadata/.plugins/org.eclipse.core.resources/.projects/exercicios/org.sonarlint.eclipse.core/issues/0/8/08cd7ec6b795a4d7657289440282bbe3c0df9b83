@@ -1,0 +1,9 @@
+
+e	java:S106"+Replace this use of System.out by a logger.8®ı€¿—1b bb1c3f2ea781263d3a2bb92b06a2061fh
+W
+java:S1116"Remove this empty statement.8®ı€¿—1b 9eecb7db59d16c80417c72d1e1f4fbf1h
+î
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").8®ı€¿—1b 0df8535bd611802d9065857c06074129h
+Ç
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.8®ı€¿—1b fcebc5995bdfff1f3c8dae763d19fd9eh
+v	java:S125 "<This block of commented-out lines of code should be removed.8¢≥Û¸—1b f180074b10aad62d14e5a1f6345e08a3h

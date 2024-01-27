@@ -1,0 +1,13 @@
+
+w
+java:S4973	"<Strings and Boxed types should be compared using "equals()".8¿ Ö½¿1b 2063849717d32dd19e534b77cabac517h
+w
+java:S4973"<Strings and Boxed types should be compared using "equals()".8¿ Ö½¿1b 2063849717d32dd19e534b77cabac517h
+e	java:S106	"+Replace this use of System.out by a logger.8¿ Ö½¿1b bb1c3f2ea781263d3a2bb92b06a2061fh
+†
+java:S1764	"KCorrect one of the identical sub-expressions on both sides of operator "=="8¿ Ö½¿1b 39c6844c921cf69656adaa2a8e4aea0ch
+e	java:S106"+Replace this use of System.out by a logger.8¿ Ö½¿1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106"+Replace this use of System.out by a logger.8¿ Ö½¿1b bb1c3f2ea781263d3a2bb92b06a2061fh
+w
+java:S4973"<Strings and Boxed types should be compared using "equals()".8ó®ß½¿1b 2063849717d32dd19e534b77cabac517h
+e	java:S106"+Replace this use of System.out by a logger.8ó®ß½¿1b bb1c3f2ea781263d3a2bb92b06a2061fh
