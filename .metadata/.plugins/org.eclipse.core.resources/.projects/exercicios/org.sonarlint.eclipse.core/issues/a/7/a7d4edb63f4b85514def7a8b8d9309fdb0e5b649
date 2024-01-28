@@ -1,0 +1,14 @@
+
+e	java:S106"+Replace this use of System.out by a logger.8èƒÔç…1b bb1c3f2ea781263d3a2bb92b06a2061fh
+w
+java:S1854'"<Remove this useless assignment to local variable "dividido".8Ñû√é…1b 40ee3b3e398bc40b846224778c3059dbh
+h
+java:S1481'"-Remove this unused "dividido" local variable.8Ñû√é…1b c2c8b9977a5bf23d3d4d5347b3389e6eh
+y
+java:S1128">Remove this unused import 'java.util.function.BinaryOperator'.8Ñû√é…1b ac26b74081c82bbb70a6d0aacd401ab9h
+x
+java:S1128
+"=Remove this unused import 'java.util.function.UnaryOperator'.8Ñû√é…1b 466497857c36188d3972f802bb31a526h
+v	java:S125"<This block of commented-out lines of code should be removed.8¨¥Œê…1b ff64e8549214ef124c83a19fcde7736fh
+o
+java:S1128"4Remove this unused import 'java.text.DecimalFormat'.8¨¥Œê…1b 5a942b8fd157c511f9812fc98250bcd4h

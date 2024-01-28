@@ -1,0 +1,9 @@
+
+ƒ
+java:S6201'"HReplace this instanceof check and cast with 'instanceof Integer integer'8ú´ÕÈÓ1b abddfb3681306f45e02b62003cf34ae8h
+€	java:S112"FDefine and throw a dedicated exception instead of using a generic one.8ú´ÕÈÓ1b 15452a9b0f2356c3dabe720a67728b3dh
+
+java:S6201%"FReplace this instanceof check and cast with 'instanceof String string'8ú´ÕÈÓ1b 36ccd9dc535870a59afbf39965592c36h
+c	java:S1084")Either remove or fill this block of code.8ú´ÕÈÓ1b f95b70fdc3088560732a5ac135644506h
+ƒ
+java:S3252"HUse static access with "java.sql.Statement" for "RETURN_GENERATED_KEYS".8ú´ÕÈÓ1b 71595555c8105569b68fd7bb038ee0c5h

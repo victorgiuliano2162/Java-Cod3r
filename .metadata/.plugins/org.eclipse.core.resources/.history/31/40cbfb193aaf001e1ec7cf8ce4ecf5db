@@ -1,0 +1,12 @@
+package br.com.cod3r.visao;
+
+import br.com.cod3r.modelo.Tabuleiro;
+
+public class TabuleiroConsole {
+	
+	private Tabuleiro tabuleiro;
+	
+	public TabuleiroConsole(Tabuleiro tabuleiro) {
+		this.tabuleiro = tabuleiro;
+	}
+}

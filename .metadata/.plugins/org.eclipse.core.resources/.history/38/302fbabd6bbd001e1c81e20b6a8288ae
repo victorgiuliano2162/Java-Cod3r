@@ -1,0 +1,35 @@
+package infra;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+
+public class DAO <E>{
+	
+	private static EntityManagerFactory emf;
+	private static EntityManager em;
+	private Class<E> classe;
+	
+	static {
+		try {
+			emf = Persistence.createEntityManagerFactory("exercicio-jpa");
+		} catch (Exception e) {
+			System.out.println(e.getStackTrace());
+		}
+	}
+	
+	public DAO() {
+		this(null);
+	}
+	
+	public DAO(Class<E> classe) {
+		this.classe = classe;
+		em = emf.createEntityManager();
+	}
+	
+	public DAO<E> teste() {
+		return this;
+	}
+	
+}

@@ -1,0 +1,13 @@
+
+e	java:S106"+Replace this use of System.out by a logger.8…ŸÊ»œ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106"+Replace this use of System.out by a logger.8ôüÎ»œ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+y
+java:S1854">Remove this useless assignment to local variable "ultimoNum2".8¡√ë…œ1b 3217aa4ed851d6b4fde61bfb790dfad3h
+
+java:S1854"DRemove this useless assignment to local variable "ultimaLinguagem2".8¡√ë…œ1b a98152a33c9d3236688d563c18ab5de6h
+p
+java:S1481"5Remove this unused "ultimaLinguagem2" local variable.8¡√ë…œ1b d1cefcce884715ada0aa6b810b22cda7h
+e	java:S106"+Replace this use of System.out by a logger.8¡√ë…œ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+j
+java:S1481"/Remove this unused "ultimoNum2" local variable.8¡√ë…œ1b df9cdbc7387dadd9fa0ad70b069d9b2dh
+e	java:S106"+Replace this use of System.out by a logger.8¡√ë…œ1b bb1c3f2ea781263d3a2bb92b06a2061fh

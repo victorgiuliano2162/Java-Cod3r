@@ -1,0 +1,16 @@
+
+Š
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.8ß‹È¾Ò1b d734c4c2a9ce3db2c9be1abf571d2ad1h
+x
+java:S1854"=Remove this useless assignment to local variable "resultado".8ß‹È¾Ò1b 9d825cd508ae25244b1f9873e119b985h
+r
+java:S1854"7Remove this useless assignment to local variable "sql".8ß‹È¾Ò1b 9f016ce6ab2685be143fbb03ff84bdb5h
+e	java:S106"+Replace this use of System.out by a logger.8ß‹È¾Ò1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106"+Replace this use of System.out by a logger.8ß‹È¾Ò1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106"+Replace this use of System.out by a logger.8ß‹È¾Ò1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106"+Replace this use of System.out by a logger.8ß‹È¾Ò1b bb1c3f2ea781263d3a2bb92b06a2061fh
+c
+java:S1481"(Remove this unused "sql" local variable.8ß‹È¾Ò1b ac5c74b64b4b8352ef2f181affb5ac2ah
+v	java:S125"<This block of commented-out lines of code should be removed.8ß‹È¾Ò1b 6f6efd31af6af5bda7ea71294e98a4bfh
+i
+java:S1481".Remove this unused "resultado" local variable.8ß‹È¾Ò1b c3a217d3df9d1f7ebea12fbb00f3a0a0h

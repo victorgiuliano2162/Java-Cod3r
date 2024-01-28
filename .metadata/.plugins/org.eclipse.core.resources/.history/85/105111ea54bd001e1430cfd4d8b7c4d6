@@ -1,0 +1,43 @@
+package teste.basico;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+import modelo.basico.Usuario;
+
+public class AdicionarVariosUser {
+	public static void main(String[] args) {
+		
+		Scanner leitor = new Scanner(System.in);
+		String nome = leitor.next();
+		String email = leitor.nextLine();
+
+		EntityManagerFactory emf =  Persistence.createEntityManagerFactory("exercicios-jpa");
+		EntityManager em = emf.createEntityManager();
+		
+		List<Usuario> usuarios = new ArrayList<>();
+		
+		while (usuarios.indexOf(usuarios) < 10) {
+			new Usuario(nome, email);
+		}
+		
+		em.getTransaction().begin();
+		
+		for(Usuario usuario : usuarios) {
+			
+			System.out.println(usuario);
+			em.persist(usuario);
+		}
+		
+		em.getTransaction().commit();
+		
+		em.close();
+		emf.close();
+		
+	}
+}

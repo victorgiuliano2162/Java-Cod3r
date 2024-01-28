@@ -1,0 +1,8 @@
+
+v	java:S125"<This block of commented-out lines of code should be removed.8•¦†ÈÆ1b aae14569e2df06a093ff28e51970333eh
+v	java:S125"<This block of commented-out lines of code should be removed.8•¦†ÈÆ1b e75aa880110b1ccd1eb0678a4aaf33e1h
+e	java:S106"+Replace this use of System.out by a logger.8ÿ¯ÈÆ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106"+Replace this use of System.out by a logger.8ÿ¯ÈÆ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+—
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'DoubleFunction<String>'8ûˆùÆ1b d02265d632a4c8e444589bc57784935bh
+e	java:S106"+Replace this use of System.out by a logger.8ûˆùÆ1b bb1c3f2ea781263d3a2bb92b06a2061fh

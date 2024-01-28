@@ -1,0 +1,8 @@
+
+|
+java:S2184"HCast one of the operands of this multiplication operation to a "double".b 3389dae361af79b04c9c8e7057f60cc6h
+|
+java:S2184"HCast one of the operands of this multiplication operation to a "double".b 3389dae361af79b04c9c8e7057f60cc6h
+|
+java:S2184	"HCast one of the operands of this multiplication operation to a "double".b 3389dae361af79b04c9c8e7057f60cc6h
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh

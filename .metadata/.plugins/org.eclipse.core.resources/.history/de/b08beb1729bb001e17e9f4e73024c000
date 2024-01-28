@@ -1,0 +1,11 @@
+package teste.basico;
+
+import javax.persistence.EntityManager;
+
+public class NovoUsuario {
+	
+	public static void main(String[] args) {
+		
+		EntityManager em;
+	}
+}

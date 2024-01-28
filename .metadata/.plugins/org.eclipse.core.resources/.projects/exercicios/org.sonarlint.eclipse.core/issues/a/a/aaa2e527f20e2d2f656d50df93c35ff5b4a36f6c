@@ -1,0 +1,14 @@
+
+Ž
+java:S1602	"SRemove useless curly braces around statement and then remove useless return keyword8–åøÐÅ1b f95b70fdc3088560732a5ac135644506h
+e	java:S106
+"+Replace this use of System.out by a logger.8–åøÐÅ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106"+Replace this use of System.out by a logger.8–åøÐÅ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106"+Replace this use of System.out by a logger.8Ôâ…ÑÅ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+s
+java:S1854"8Remove this useless assignment to local variable "calc".8×¬’ÑÅ1b 5bcfd69b8f0e002c4146aa41a3f70827h
+Ž
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword8×¬’ÑÅ1b f95b70fdc3088560732a5ac135644506h
+e	java:S106"+Replace this use of System.out by a logger.8×¬’ÑÅ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+’
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'8ú¹”ÑÅ1b 907594535584cf6e1a298b17df5747a7h

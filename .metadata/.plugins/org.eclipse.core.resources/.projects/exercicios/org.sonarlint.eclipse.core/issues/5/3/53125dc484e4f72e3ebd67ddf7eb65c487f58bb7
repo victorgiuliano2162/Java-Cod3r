@@ -1,0 +1,16 @@
+
+e	java:S106"+Replace this use of System.out by a logger.8äé‹≈1b bb1c3f2ea781263d3a2bb92b06a2061fh
+ñ
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'8Ê‹‰≈1b af59c909e5c6f24bd4b2e31dd7e5bf4bh
+h
+java:S1128"-Remove this unused import 'classe.ValorNull'.8Ê‹‰≈1b 79d2430e6c70ad2d7779a3853a083ee8h
+e	java:S106"+Replace this use of System.out by a logger.8»ÃÂ≈1b bb1c3f2ea781263d3a2bb92b06a2061fh
+ñ
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'8ÕÏı≈1b af59c909e5c6f24bd4b2e31dd7e5bf4bh
+y
+java:S1854">Remove this useless assignment to local variable "oResultado".8ù”«Ò≈1b 063f06063c0b21bb4ff06cf63f40683dh
+j
+java:S1481"/Remove this unused "oResultado" local variable.8ù”«Ò≈1b ab4ffb77b35ccddf87305dbcd56d8352h
+W
+java:S1116"Remove this empty statement.8ù”«Ò≈1b 9eecb7db59d16c80417c72d1e1f4fbf1h
+e	java:S106"+Replace this use of System.out by a logger.8ù”«Ò≈1b bb1c3f2ea781263d3a2bb92b06a2061fh

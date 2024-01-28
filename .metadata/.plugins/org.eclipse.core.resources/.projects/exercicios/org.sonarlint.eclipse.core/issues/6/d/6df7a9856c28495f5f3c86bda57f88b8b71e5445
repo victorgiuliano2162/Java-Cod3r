@@ -1,0 +1,7 @@
+
+e	java:S106"+Replace this use of System.out by a logger.8þ»ŽŸÉ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+‹
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.8Žá“ŸÉ1b e26c0e4092e3d737a9a2cf79be27faf8h
+e	java:S106"+Replace this use of System.out by a logger.8ÁŽšŸÉ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106"+Replace this use of System.out by a logger.8´È¤ŸÉ1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106"+Replace this use of System.out by a logger.8ßÄ³ŸÉ1b bb1c3f2ea781263d3a2bb92b06a2061fh

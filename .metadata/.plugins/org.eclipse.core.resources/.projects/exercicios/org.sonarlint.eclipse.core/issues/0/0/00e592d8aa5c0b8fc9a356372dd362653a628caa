@@ -1,0 +1,5 @@
+
+„
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".b 51c3f59625962b899c03595d6cdfb284h
+‡
+java:S1871"LThis branch's code block is the same as the block for the branch on line 22.8πλη―Α1b 2764a73f66a5aa2c696500a5d09c2b85h

@@ -1,0 +1,8 @@
+package infra;
+
+import modelo.basico.Entidade;
+
+public class DAO <E extends Entidade>{
+	
+	
+}

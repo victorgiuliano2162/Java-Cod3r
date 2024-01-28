@@ -1,0 +1,24 @@
+
+p
+java:S1854"5Remove this useless assignment to local variable "l".8°“öûø1b ac2ac0f333f37030b1807bfd92d73de4h
+p
+java:S1854"5Remove this useless assignment to local variable "i".8°“öûø1b 7fdbe2870e8e5fa78b2a3af2d02cc6b0h
+p
+java:S1854"5Remove this useless assignment to local variable "s".8°“öûø1b 7fdbe2870e8e5fa78b2a3af2d02cc6b0h
+a
+java:S1481"&Remove this unused "s" local variable.8°“öûø1b 03c7c0ace395d80182db07ae2c30f034h
+a
+java:S1481"&Remove this unused "i" local variable.8°“öûø1b 865c0c0b4ab0e063e5caa3387c1a8741h
+a
+java:S1481"&Remove this unused "l" local variable.8°“öûø1b 2db95e8e1a9267b7a1188556b2013b33h
+q
+java:S1854"6Remove this useless assignment to local variable "bo".8ﬁ’Å†ø1b d76920cc289cce63335110738d94a697h
+p
+java:S1854"5Remove this useless assignment to local variable "b".8ﬁ’Å†ø1b 46e9b7da11c55218fa49d16ba6bdd40eh
+a
+java:S1481"&Remove this unused "b" local variable.8ﬁ’Å†ø1b 92eb5ffee6ae2fec3ad71c777531578fh
+g
+java:S2201
+",The return value of "parseInt" must be used.8ﬁ’Å†ø1b 1c4051b582415f8652c8c361a8980fc0h
+b
+java:S1481"'Remove this unused "bo" local variable.8ﬁ’Å†ø1b ad7532d5b3860a408fbe01f9455dca36h

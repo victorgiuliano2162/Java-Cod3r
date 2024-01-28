@@ -1,0 +1,66 @@
+package jdbc;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+public class AlterarNomePessoa {
+	
+	public static void main(String[] args) throws SQLException{
+		
+		Scanner entrada = new Scanner(System.in);
+		System.out.println("Informe o codigo do funcionário:");
+		int codigo = entrada.nextInt();
+		String novoNome = null;
+				
+		String select = "SELECT codigo, nome from pessoas where codigo = ?";
+		String update = "update pessoas set nome = ? where codigo = ?";
+		Connection conexao = FabricaConexao.getConexao();
+		PreparedStatement stmt = conexao.prepareStatement(select);
+		stmt.setInt(1, codigo);
+		ResultSet resultado = stmt.executeQuery(); 
+		
+		if(resultado.next()) {
+			Pessoa p = new Pessoa(resultado.getInt(1), resultado.getString(2));
+			System.out.println("O nome atual é: " + p.getNome());
+			entrada.nextLine();
+			
+			System.out.println("Informe o novo nome abaixo: ");
+			novoNome = entrada.nextLine();
+			
+			
+			stmt.close();
+			stmt = conexao.prepareStatement(update);
+			stmt.setString(1, novoNome); 
+			//O primeiro valor indica que será o primeiro parâmetro
+			stmt.setInt(2, codigo);
+			//O segundo valor indica que será o segundo parâmetro
+			//ResultSet resultadoAtualizado = stmt.executeQuery(); 
+			//Pessoa p1 = new Pessoa(resultadoAtualizado.getInt(1), resultadoAtualizado.getString(2));
+			stmt.execute(); //Todas as demais linhas de código são inúteis sem está
+			
+			System.out.println("Pessoa alterada com sucesso");
+			//System.out.println("O novo nome nome para o índice " + p1.getCodigo() + " é " + p1.getNome());
+			stmt.close();
+		}
+		
+		
+		String sql = "select * from pessoas where nome = ?";
+		
+		stmt = conexao.prepareStatement(sql);
+		stmt.setString(1, novoNome);
+		stmt.execute();
+		
+		ResultSet resultado2 = stmt.executeQuery();
+		Pessoa pessoas = new Pessoa(resultado2.getInt(1), resultado2.getString(2));
+		System.out.println("O novo nome é: " + pessoas.getNome());
+				
+		entrada.close();
+		conexao.close();
+		
+	}
+}
